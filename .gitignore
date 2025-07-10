@@ -1,0 +1,5 @@
+*.png
+*.fits
+figures/
+!figures/a.png
+
